@@ -23,6 +23,7 @@ namespace testGit.Controllers
             return View();
         }
 
+        // test
         public IActionResult Privacy()
         {
             return View();
